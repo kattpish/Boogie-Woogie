@@ -1,0 +1,52 @@
+{
+    "wallpapers": [
+        {
+            "name": "Les Demoiselles d'Avignon",
+            "artist": "Pablo Picasso",
+            "description": "Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon) is a large oil painting created in 1907 by the Spanish artist Pablo Picasso.",
+            "src": "../../../public/image/card-image.jpg"
+        },
+        {
+            "name": "The Starry Night",
+            "artist": "Vincent van Gogh",
+            "description": "The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh.",
+            "src": "../../../public/image/card-image-2.jpg"
+        },
+        {
+            "name": "Impression, Sunrise",
+            "artist": "Claude Monet",
+            "description": "Impression, Sunrise (French: Impression, soleil levant) is a painting by Claude Monet first shown at what would become known as the 'Exhibition of the Impressionists' in Paris in April, 1874.",
+            "src": "../../../public/image/card-image-3.jpg"
+        },
+        {
+            "name": "The Gleaners",
+            "artist": "Jean-François Millet",
+            "description": "The Gleaners (Des glaneuses) is an oil painting by Jean-François Millet completed in 1857.",
+            "src": "../../../public/image/card-image-4.jpg"
+        },
+        {
+            "name": "Les Demoiselles d'Avignon",
+            "artist": "Pablo Picasso",
+            "description": "Les Demoiselles d'Avignon (The Young Ladies of Avignon, and originally titled The Brothel of Avignon) is a large oil painting created in 1907 by the Spanish artist Pablo Picasso.",
+            "src": "../../../public/image/card-image.jpg"
+        },
+        {
+            "name": "The Starry Night",
+            "artist": "Vincent van Gogh",
+            "description": "The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh.",
+            "src": "../../../public/image/card-image-2.jpg"
+        },
+        {
+            "name": "Impression, Sunrise",
+            "artist": "Claude Monet",
+            "description": "Impression, Sunrise (French: Impression, soleil levant) is a painting by Claude Monet first shown at what would become known as the 'Exhibition of the Impressionists' in Paris in April, 1874.",
+            "src": "../../../public/image/card-image-3.jpg"
+        },
+        {
+            "name": "The Gleaners",
+            "artist": "Jean-François Millet",
+            "description": "The Gleaners (Des glaneuses) is an oil painting by Jean-François Millet completed in 1857.",
+            "src": "../../../public/image/card-image-4.jpg"
+        }
+    ]
+}
